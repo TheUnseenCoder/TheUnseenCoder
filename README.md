@@ -54,6 +54,6 @@
 <h3>My Github Stats:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=theunseencoder&" alt="theunseencoder" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=theunseencoder&show_icons=true&locale=en" alt="theunseencoder" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theunseencoder&show_icons=true&locale=en&layout=compact" alt="theunseencoder" /></p>
+<p><img align="center" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=theunseencoder&show_icons=true&locale=en&layout=compact" alt="theunseencoder" /></p>
 
 
