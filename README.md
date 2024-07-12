@@ -57,6 +57,6 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=theunseencoder&theme=dark&show_icons=true&locale=en" alt="theunseencoder" /></p>
 
-<p>&nbsp;<img align="center" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=theunseencoder&theme=dark&show_icons=true&locale=en&layout=compact" alt="theunseencoder" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=theunseencoder&theme=dark&show_icons=true&locale=en&layout=compact" alt="theunseencoder" /></p>
 
 
