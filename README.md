@@ -52,7 +52,7 @@
 
 <br>
 <h3>My Github Stats:</h3>
-<p><img align="left" width="100" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=theunseencoder&show_icons=true&locale=en&layout=compact" alt="theunseencoder" /></p>
+<p><img align="left" width="1080" height="1080" src="https://github-readme-stats.vercel.app/api/top-langs?username=theunseencoder&show_icons=true&locale=en&layout=compact" alt="theunseencoder" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=theunseencoder&show_icons=true&locale=en" alt="theunseencoder" /></p>
 
